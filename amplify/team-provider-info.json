@@ -1,0 +1,20 @@
+{
+    "tekrisk": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tekrisk-tekrisk-55233-authRole",
+            "UnauthRoleArn": "arn:aws:iam::064090835293:role/amplify-tekrisk-tekrisk-55233-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::064090835293:role/amplify-tekrisk-tekrisk-55233-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-tekrisk-tekrisk-55233-deployment",
+            "UnauthRoleName": "amplify-tekrisk-tekrisk-55233-unauthRole",
+            "StackName": "amplify-tekrisk-tekrisk-55233",
+            "StackId": "arn:aws:cloudformation:us-east-1:064090835293:stack/amplify-tekrisk-tekrisk-55233/e003fdd0-2afa-11ea-a815-0ed4cff9b69d",
+            "AmplifyAppId": "d3lwi8tvwfcm48"
+        },
+        "categories": {
+            "auth": {
+                "tekriskff85f28c": {}
+            }
+        }
+    }
+}
